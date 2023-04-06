@@ -1,3 +1,7 @@
+[![example CI](https://github.com/sjkim-com/githubActionExample/actions/workflows/ci.yml/badge.svg)](https://github.com/sjkim-com/githubActionExample/actions/workflows/ci.yml)
+
+
+
 <h3 align="center">
 	<img src=".github/logo.png" alt="Fatorial Logo"/>
   <br/>
