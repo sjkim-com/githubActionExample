@@ -3,10 +3,6 @@
 
 name: example CI
 
-build:
-  default:
-
-
 on:
   push:
     branches: [ "main" ]
